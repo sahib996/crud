@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\car\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\areas\\admin\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:areas\\admin\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|c:\\users\\admin\\desktop\\car\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\areas\\admin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:areas\\admin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\Migrations\\20240523212514_CreatedDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:Migrations\\20240523212514_CreatedDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|C:\\Users\\ADMIN\\Desktop\\car\\Migrations\\20240523200727_CreatedCarDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFBF833A-7C50-4DD6-AC45-088F6BB7A6E6}|car.csproj|solutionrelative:Migrations\\20240523200727_CreatedCarDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:38:50.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T22:51:35.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\admin\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\admin\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T22:41:02.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\admin\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Areas\\admin\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T20:52:58.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T20:10:11.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T20:09:55.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAJgBAAAAAAAAAAAAAKgBAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T19:30:08.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:29:58.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T20:00:08.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Areas\\admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Areas\\admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T22:19:03.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Views\\Account\\register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\admin\\Views\\Account\\register.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Views\\Account\\register.cshtml",
+              "RelativeToolTip": "Areas\\admin\\Views\\Account\\register.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T22:54:28.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\admin\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\admin\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T22:40:49.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\admin\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Areas\\admin\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T20:55:49.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240523212514_CreatedDb.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Migrations\\20240523212514_CreatedDb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240523212514_CreatedDb.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Migrations\\20240523212514_CreatedDb.cs",
+              "RelativeToolTip": "Migrations\\20240523212514_CreatedDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:25:14.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Areas\\admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Areas\\admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:52:08.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T20:10:32.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T20:10:21.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240523200727_CreatedCarDb.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Migrations\\20240523200727_CreatedCarDb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240523200727_CreatedCarDb.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Migrations\\20240523200727_CreatedCarDb.cs",
+              "RelativeToolTip": "Migrations\\20240523200727_CreatedCarDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:07:27.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-23T19:59:53.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:53:47.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:45:54.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T19:29:50.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T19:29:39.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\car\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\car\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T19:29:30.882Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
